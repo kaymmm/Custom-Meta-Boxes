@@ -46,6 +46,7 @@ function cmb_sample_metaboxes( array $meta_boxes ) {
 		array( 'id' => 'field-23', 'name' => 'Oembed field', 'type' => 'oembed' ),
 
 		array( 'id' => 'field-24', 'name' => 'Title Field', 'type' => 'title' ),
+	
 	);
 
 	$meta_boxes[] = array(
